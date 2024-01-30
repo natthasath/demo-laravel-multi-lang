@@ -67,5 +67,6 @@ php artisan make:model Models\\User
 - [http://localhost:8000/login](http://localhost:8000/login) username : `admin` password : `admin`
 
 ```shell
+npm run dev
 php artisan serve
 ```
